@@ -179,7 +179,7 @@ def predict(sess, image_file):
     
 #%%
 # running the predict function
-cap = cv2.VideoCapture("test6.mp4")
+cap = cv2.VideoCapture("test1.mp4")
 #%%
 
 #%%
