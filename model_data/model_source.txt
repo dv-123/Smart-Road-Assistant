@@ -1,0 +1,5 @@
+in order to get the yolo.h5 pretrained model, follow the steps below:
+1. first dowanload the pretrained yolov2.weights file form darkenet or any repository
+2. then used YAD2K/yad2k.py to convert yolov2.weights to yolo.h5 weights using yolov2.cfg file
+# the YAD2K source can be found on GitHUb and also mentioned in the LICENSE the name of contributor for the repository.
+# then using the python file in command prompt convert the given .weights file into .h5 format and implement the code.
