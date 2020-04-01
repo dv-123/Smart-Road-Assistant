@@ -29,5 +29,4 @@ This method usually increases the global contrast of many images, especially whe
 
 Model and weight file not uploaded
 
-Untitled-checkpoint.ipynb not uploaded in mode_data .ipynb_checkpoints
 
